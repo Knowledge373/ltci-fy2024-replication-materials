@@ -4,7 +4,8 @@
 
 - [保険者別の月別納期と仮算定の有無（Excel）](fy2024-insurer-payment-schedules.xlsx)
 - [同一覧（CSV）](fy2024-insurer-payment-schedules.csv)
+- [主要図表・再計算の案内](PUBLIC-GUIDE-JA.md)
 - [再計算用データ・コードと使い方（ZIP）](ltci-fy2024-data-code.zip)
-- [チェックサム](SHA256SUMS.txt)
+- [配布ファイルのチェックサム](SHA256SUMS.txt)
 
-再計算の手順と収録範囲は、ZIPを解凍して中の README.md と解析案内をご覧ください。論文、補足PDF、個別照会の記録、未公開の保険者別調査回答は収録していません。
+再計算の手順と収録範囲は、主要図表の案内と、ZIP内の README.md をご覧ください。論文、補足PDF、個別照会の記録、未公開の保険者別調査回答は収録していません。
