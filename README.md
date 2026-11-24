@@ -5,6 +5,7 @@
 - [保険者別の月別納期と仮算定の有無（Excel）](fy2024-insurer-payment-schedules.xlsx)
 - [同一覧（CSV）](fy2024-insurer-payment-schedules.csv)
 - [主要図表・再計算の案内](PUBLIC-GUIDE-JA.md)
+- [島嶼を含む仮算定の全国図](NATIONAL-MAP-JA.md)
 - [再計算用データ・コードと使い方（ZIP）](ltci-fy2024-data-code.zip)
 - [配布ファイルのチェックサム](SHA256SUMS.txt)
 
